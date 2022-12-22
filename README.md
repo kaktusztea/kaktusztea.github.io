@@ -6,7 +6,6 @@
 - [RPG kaland: A Zászlóháború győztes vesztesei (MAGUS)](https://github.com/kaktusztea/rpg_zaszlohaboru/wiki)
 - [RPG világ: Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki)
 
-
 ### python code
 - [python: hunpress_deadcounter](https://github.com/kaktusztea/hunpress_deadcounter)
 
