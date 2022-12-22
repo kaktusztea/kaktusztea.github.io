@@ -7,7 +7,8 @@
 - [RPG világ: Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki)
 
 ### python code
-- [python: hunpress_deadcounter](https://github.com/kaktusztea/hunpress_deadcounter)
+- [hunpress_deadcounter](https://github.com/kaktusztea/hunpress_deadcounter)
+- [backupy backup tool](https://github.com/kaktusztea/backupy)
 
 ### Privacy
 - [Tudatos online jelenlét - oktatóanyag, tanulmány a privacy témájában (PDF)](https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf)
