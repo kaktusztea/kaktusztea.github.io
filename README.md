@@ -6,6 +6,9 @@
 - [RPG kaland: A Zászlóháború győztes vesztesei (MAGUS)](https://github.com/kaktusztea/rpg_zaszlohaboru/wiki)
 - [RPG világ: Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki)
 
+### Novellák, írások
+- [Lackfi kreatív írás tanfolyam 2021/1 - irományaim](https://gist.github.com/kaktusztea/6ea85ec611a7fc53ccaac6ca2eb5753c)
+
 ### python code
 - [hunpress_deadcounter](https://github.com/kaktusztea/hunpress_deadcounter)
 - [backupy backup tool](https://github.com/kaktusztea/backupy)
