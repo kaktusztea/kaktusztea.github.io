@@ -10,8 +10,8 @@
 - [Lackfi kreatív írás tanfolyam 2021/1 - irományaim](https://gist.github.com/kaktusztea/6ea85ec611a7fc53ccaac6ca2eb5753c)
 
 ### python code
-- [hunpress_deadcounter](https://github.com/kaktusztea/hunpress_deadcounter)
-- [backupy backup tool](https://github.com/kaktusztea/backupy)
+- [HUNpress deadcounter](https://github.com/kaktusztea/hunpress_deadcounter) - halálszámláló script a legnagyobb híroldalakon
+- [backupy](https://github.com/kaktusztea/backupy) - native backup script python alapon
 
 ### Privacy
 - [Tudatos online jelenlét - oktatóanyag, tanulmány a privacy témájában (PDF)](https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf)
