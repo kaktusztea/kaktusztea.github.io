@@ -5,6 +5,7 @@
 - [RPG rendszer: km100](https://github.com/kaktusztea/km100/blob/master/README.md)
 - [RPG kaland: A Zászlóháború győztes vesztesei (MAGUS)](https://github.com/kaktusztea/rpg_zaszlohaboru/wiki)
 - [RPG világ: Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki)
+- RPG világ: Torkolattűz - ... coming soon ...
 
 ### Novellák, írások
 - [Lackfi kreatív írás tanfolyam 2021/1 - irományaim](https://gist.github.com/kaktusztea/6ea85ec611a7fc53ccaac6ca2eb5753c)
