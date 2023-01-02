@@ -8,11 +8,11 @@
 - Torkolattűz - ... coming soon ...
 
 ### Novellák, írások
-- [Lackfi kreatív-írás tanfolyam irományaim](https://github.com/kaktusztea/kreativ.iras/blob/master/README.md)
+- [Lackfi kreatív-írás](https://github.com/kaktusztea/kreativ.iras/blob/master/README.md) - tanfolyami irományaim
 
 ### python code
 - [HUNpress deadcounter](https://github.com/kaktusztea/hunpress_deadcounter) - halálszámláló script a legnagyobb híroldalakon
 - [backupy](https://github.com/kaktusztea/backupy) - native backup script python alapon
 
 ### Privacy
-- [Tudatos online jelenlét - oktatóanyag, tanulmány a privacy témájában (PDF)](https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf)
+- [Tudatos online jelenlét](https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf) - oktatóanyag, tanulmány a privacy témájában (PDF)
