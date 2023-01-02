@@ -16,3 +16,6 @@
 
 ### Privacy
 - [Tudatos online jelenlét](https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf) - oktatóanyag, tanulmány a privacy témájában (PDF)
+
+### Videók
+- [Fonyód 2008](https://www.youtube.com/watch?v=mt1jxUIo39s) - Shaolin Kungfu edzőtábor - XAFT 2008 Alternatív filmfesztivál résztvevő film
