@@ -8,7 +8,7 @@
 - RPG világ: Torkolattűz - ... coming soon ...
 
 ### Novellák, írások
-- [Lackfi kreatív írás tanfolyam 2021/1 - irományaim](https://gist.github.com/kaktusztea/6ea85ec611a7fc53ccaac6ca2eb5753c)
+- [Lackfi kreatív-írás tanfolyam irományaim](https://github.com/kaktusztea/kreativ.iras/README.md)
 
 ### python code
 - [HUNpress deadcounter](https://github.com/kaktusztea/hunpress_deadcounter) - halálszámláló script a legnagyobb híroldalakon
