@@ -1,7 +1,7 @@
 ## kaktusztea
 
 ### RPG / Szerepjáték
-- [Codex RPG: novellák, szellemlények, kalandmodulok, rendek, ismertetők](https://github.com/kaktusztea/codex/blob/master/README.md)
+- [Codex](https://github.com/kaktusztea/codex/blob/master/README.md) - novellák, szellemlények, kalandmodulok, rendek, ismertetők
 - [km100](https://github.com/kaktusztea/km100/blob/master/README.md) - teljes fantasy szabályrendszer
 - [A Zászlóháború győztes vesztesei](https://github.com/kaktusztea/rpg_zaszlohaboru/wiki) - MAGUS kaland
 - [Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki) - teljes, feelgood sci-fi világ, társalkotókkal közösen kidolgozva
