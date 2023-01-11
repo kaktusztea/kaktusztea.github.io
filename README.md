@@ -5,7 +5,7 @@
 - [km100](https://github.com/kaktusztea/km100/blob/master/README.md) - teljes fantasy szabályrendszer
 - [A Zászlóháború győztes vesztesei](https://github.com/kaktusztea/rpg_zaszlohaboru/wiki) - MAGUS kaland
 - [Milky Way's Finest](https://github.com/Milky-Ways-Finest/missions/wiki) - teljes, feelgood sci-fi világ, társalkotókkal közösen kidolgozva
-- Torkolattűz - ... coming soon ...
+- [Torkolattűz](https://github.com/kaktusztea/torkolattuz/blob/master/README.md) - szerepjáték az akciófilmes klisék világán
 
 ### Novellák, írások
 - [Lackfi kreatív-írás](https://github.com/kaktusztea/kreativ.iras/blob/master/README.md) - tanfolyami irományaim
